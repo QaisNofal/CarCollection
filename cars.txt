@@ -3,3 +3,5 @@ toyota
 opel
 kia
 bmw
+mercdice
+super
